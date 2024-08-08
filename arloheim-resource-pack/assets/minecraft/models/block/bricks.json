@@ -4,6 +4,9 @@
     "all": "minecraft:block/bricks"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "block/yellow_bricks"}
+    {
+      "predicate": {"custom_model_data": 1},
+      "model": "minecraft:block/yellow_bricks"
+    }
   ]
 }

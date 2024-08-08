@@ -4,6 +4,9 @@
     "wall": "minecraft:block/bricks"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "block/yellow_brick_wall_side_tall"}
+    {
+      "predicate": {"custom_model_data": 1},
+      "model": "minecraft:block/yellow_brick_wall_side_tall"
+    }
   ]
 }
