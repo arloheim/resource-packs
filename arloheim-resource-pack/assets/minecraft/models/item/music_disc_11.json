@@ -6,35 +6,35 @@
   "overrides": [
     {
       "predicate": {"custom_model_data": 1},
-      "model": "item/cassette_bufkes"
+      "model": "minecraft:item/cassette_bufkes"
     },
     {
       "predicate": {"custom_model_data": 2},
-      "model": "item/cassette_economie"
+      "model": "minecraft:item/cassette_economie"
     },
     {
       "predicate": {"custom_model_data": 3},
-      "model": "item/cassette_frosty"
+      "model": "minecraft:item/cassette_frosty"
     },
     {
       "predicate": {"custom_model_data": 4},
-      "model": "item/cassette_nordicruin"
+      "model": "minecraft:item/cassette_nordicruin"
     },
     {
       "predicate": {"custom_model_data": 5},
-      "model": "item/cassette_pompen"
+      "model": "minecraft:item/cassette_pompen"
     },
     {
       "predicate": {"custom_model_data": 6},
-      "model": "item/cassette_spouwmuur"
+      "model": "minecraft:item/cassette_spouwmuur"
     },
     {
       "predicate": {"custom_model_data": 7},
-      "model": "item/cassette_testosteron"
+      "model": "minecraft:item/cassette_testosteron"
     },
     {
       "predicate": {"custom_model_data": 8},
-      "model": "item/cassette_visstick"
+      "model": "minecraft:item/cassette_visstick"
     }
   ]
 }

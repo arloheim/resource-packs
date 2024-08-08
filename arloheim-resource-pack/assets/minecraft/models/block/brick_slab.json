@@ -7,8 +7,8 @@
   },
   "overrides": [
     {
-      "predicate": {"custom_model_data": 1},
-      "model": "minecraft:block/yellow_brick_slab"
+      "predicate": {"custom_model_data": 128},
+      "model": "block/yellow_brick_slab"
     }
   ]
 }
