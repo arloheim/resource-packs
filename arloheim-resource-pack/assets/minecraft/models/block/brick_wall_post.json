@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "minecraft:block/bricks"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "block/yellow_brick_wall_post"}
+  ]
+}

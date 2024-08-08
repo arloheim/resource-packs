@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "minecraft:block/bricks",
+    "side": "minecraft:block/bricks",
+    "top": "minecraft:block/bricks"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "block/yellow_brick_stairs_inner"}
+  ]
+}

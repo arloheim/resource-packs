@@ -1,2 +1,6 @@
+# Ignore builds and resources
+/builds/
+/resources/
+
 # Ignore files for sounds
 **/sounds/**/*.ogg
