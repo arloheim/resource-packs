@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Validate Resource Pack
+      - name: Validate resource pack
         uses: MrKinau/ResourcePackValidator@v1
         with:
           resourcepack: arloheim-resource-pack
