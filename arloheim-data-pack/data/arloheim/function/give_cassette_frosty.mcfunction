@@ -1,1 +1,1 @@
-give @s minecraft:music_disc_11[jukebox_playable="arloheim:frosty"] 1
+give @s minecraft:music_disc_11[item_name="Cassette",jukebox_playable="arloheim:frosty"] 1
