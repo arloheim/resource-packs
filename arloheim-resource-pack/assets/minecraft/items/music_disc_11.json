@@ -1,0 +1,69 @@
+{
+  "model": {
+    "type": "select",
+    "property": "component",
+    "component": "jukebox_playable",
+    "fallback": {
+      "type": "model",
+      "model": "item/music_disc_11"
+    },
+    "cases": [
+      {
+        "when": "arloheim:bufkes",
+        "model": {
+          "type": "model",
+          "model": "item/cassette_bufkes"
+        }
+      },
+      {
+        "when": "arloheim:economie",
+        "model": {
+          "type": "model",
+          "model": "item/cassette_economie"
+        }
+      },
+      {
+        "when": "arloheim:frosty",
+        "model": {
+          "type": "model",
+          "model": "item/cassette_frosty"
+        }
+      },
+      {
+        "when": "arloheim:nordicruin",
+        "model": {
+          "type": "model",
+          "model": "item/cassette_nordicruin"
+        }
+      },
+      {
+        "when": "arloheim:pompen",
+        "model": {
+          "type": "model",
+          "model": "item/cassette_pompen"
+        }
+      },
+      {
+        "when": "arloheim:spouwmuur",
+        "model": {
+          "type": "model",
+          "model": "item/cassette_spouwmuur"
+        }
+      },
+      {
+        "when": "arloheim:testosteron",
+        "model": {
+          "type": "model",
+          "model": "item/cassette_testosteron"
+        }
+      },
+      {
+        "when": "visstick",
+        "model": {
+          "type": "model",
+          "model": "item/cassette_visstick"
+        }
+      }
+    ]
+  }
+}
