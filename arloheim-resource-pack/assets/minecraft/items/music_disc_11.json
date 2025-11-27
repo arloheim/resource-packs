@@ -71,7 +71,7 @@
         }
       },
       {
-        "when": "visstick",
+        "when": "arloheim:visstick",
         "model": {
           "type": "model",
           "model": "item/cassette_visstick"
