@@ -1,0 +1,1 @@
+give @s minecraft:diamond[item_name="Echo Prism",custom_model_data={strings:["echo_prism"]}] 1

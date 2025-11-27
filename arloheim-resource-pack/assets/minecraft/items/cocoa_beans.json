@@ -1,0 +1,68 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/cocoa_beans"
+    },
+    "cases": [
+      {
+        "when": "black_tea_leaves",
+        "model": {
+          "type": "model",
+          "model": "item/black_tea_leaves"
+        }
+      },
+      {
+        "when": "boba",
+        "model": {
+          "type": "model",
+          "model": "item/boba"
+        }
+      },
+      {
+        "when": "chai_spices",
+        "model": {
+          "type": "model",
+          "model": "item/chai_spices"
+        }
+      },
+      {
+        "when": "coffee_beans",
+        "model": {
+          "type": "model",
+          "model": "item/coffee_beans"
+        }
+      },
+      {
+        "when": "coffee_powder",
+        "model": {
+          "type": "model",
+          "model": "item/coffee_powder"
+        }
+      },
+      {
+        "when": "green_tea_leaves",
+        "model": {
+          "type": "model",
+          "model": "item/green_tea_leaves"
+        }
+      },
+      {
+        "when": "mint",
+        "model": {
+          "type": "model",
+          "model": "item/mint"
+        }
+      },
+      {
+        "when": "star_anise",
+        "model": {
+          "type": "model",
+          "model": "item/star_anise"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_11[item_name="Cassette",custom_model_data={strings:["cassette"]}] 1

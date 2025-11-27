@@ -1,0 +1,1 @@
+give @s minecraft:cocoa_beans[item_name="Chai Spices",custom_model_data={strings:["chai_spices"]}] 1
